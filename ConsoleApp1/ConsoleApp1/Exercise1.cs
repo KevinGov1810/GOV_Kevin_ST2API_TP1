@@ -270,14 +270,14 @@
 
         static void Main()
         {
-            // Exercise11();
-            // Exercise12();
-            // Exercise13();
-            // Prime();
-            // Exercise22();
-            // Exercise23();
-            // Exercise3();
-            // Exercise4();
+            Exercise11();
+            Exercise12();
+            Exercise13();
+            Prime();
+            Exercise22();
+            Exercise23();
+            Exercise3();
+            Exercise4();
             Exercise5();
         }
     }
